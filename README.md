@@ -56,12 +56,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
 </div>
 
-###
-
-<br clear="both">
-
-<div align="center">
-  <img height="200" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7"  />
-</div>
-
-###
